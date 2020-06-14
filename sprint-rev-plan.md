@@ -6,10 +6,13 @@
 
 #Sprint Review: 
 > - last week was 3.5/5 because I was consistent with building a daily habit, but I didn't do as much as I would have liked 
-> - what went right? 
+> - what went right? what additional things did I do that I'd like to celebrate?
   > - I did SOMETHING each day! 
   > - I maintained a balance of excitement/obsession
   > - I kept track of my progress 
+  > - set up Google Voice for Intangible Insights
+  > - worked on the Intangible Insights website
+  > - read a lot of HTMA and a little of Tufte
 
 > - what could've gone better? 
   > - I think I would like to have gone deeper with my tasks
