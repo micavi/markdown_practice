@@ -3,7 +3,7 @@
 # Today I am getting better one teensy step at a time
 
 > [X] Practice Markdown/git  
-> [X] Google Analytics
+> [] Google Analytics
 > [] Excel Course
 > [] Reading
 
