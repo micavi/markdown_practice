@@ -35,8 +35,8 @@
 OK Great! So for today, here are my focused tasks: 
 
 > [X] Practice Markdown/git  (10)
-> [] Google Analytics (10)
-> [] Excel Course (40)
+> [X] Google Analytics (10)
+> [X] Excel Course (40)
 > [] Reading (+30)
 
 
