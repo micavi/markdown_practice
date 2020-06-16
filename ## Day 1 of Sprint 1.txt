@@ -2,7 +2,7 @@
 
 # To Do: 
 
-> - [] reading
+> - [x] reading
 > - [] google analytics
-> - [] excel course
-> - [] markdown practice
+> - [x] excel course
+> - [x] markdown practice
