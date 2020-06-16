@@ -31,8 +31,11 @@ what will I do better next sprint?
 SMART GOALS: 
 
 > Learn for at least 1 hour each day starting at 8:30 AM and/or 8:30 PM 
+
 > Prepare for the Google Analytics Exam and choose a date & time to take the exam
+
 > Complete 50% of the Excel Course for Data Analysis 
+
 > Next Steps meeting with Uplift, GBA 
 
 OK Great! So for today, here are my focused tasks: 
