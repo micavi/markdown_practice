@@ -7,7 +7,8 @@
 ### Sprint Review: 
 
 - last week was 3.5/5 because I was consistent with building a daily habit, but I didn't do as much as I would have liked 
-- what went right? what additional things did I do that I'd like to celebrate?
+
+what went right? what additional things did I do that I'd like to celebrate?
 - I did SOMETHING each day! 
 - I maintained a balance of excitement/obsession
 - I kept track of my progress 
@@ -15,16 +16,16 @@
 - worked on the Intangible Insights website
 - read a lot of HTMA and a little of Tufte
 
-> - what could've gone better? 
-  > - I think I would like to have gone deeper with my tasks
-    > - I notice that I really enjoy reading and learning from books. I will do this by printing off my material/downloading it on my kindle so that I feel like its a book 
+what could've gone better? 
+  - I think I would like to have gone deeper with my tasks
+  - I notice that I really enjoy reading and learning from books. I will do this by printing off my material/downloading it on my kindle so that I feel like its a book 
   
-> - what will I do better next sprint?
-  > - I think if I move up my time to 8:30 that would be the best thing! Then I can start my learning each morning and evening at that time and go a bit longer in the day without being affected by fatigue or distraction
-  > - I can also put the amount of time I estimate for each task 
+what will I do better next sprint?
+  - I think if I move up my time to 8:30 that would be the best thing! Then I can start my learning each morning and evening at that time and go a bit longer in the day without being affected by fatigue or distraction
+  - I can also put the amount of time I estimate for each task 
 
 
-  SPRINT PLAN:
+### SPRINT PLAN:
     For this week, I will prioritize the following: 
 
     SMART GOALS: 
@@ -35,10 +36,10 @@
 
 OK Great! So for today, here are my focused tasks: 
 
-> [X] Practice Markdown/git  (10)
-> [X] Google Analytics (10)
-> [X] Excel Course (40)
-> [X] Reading (+30)
+[X] Practice Markdown/git  (10)
+[X] Google Analytics (10)
+[X] Excel Course (40)
+[X] Reading (+30)
 
 
 
