@@ -1,0 +1,11 @@
+# This is day 2 of the Sprint! 
+
+## I really can't wait to get into coding
+
+Today: 
+- [] reading
+- [] google analytics
+- [] excel course
+- [x] markdown practice 
+
+
